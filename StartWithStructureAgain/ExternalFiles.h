@@ -1,0 +1,10 @@
+void ArrayTest();
+void StartingWithStructure();
+void CreatingArraisOfStructure();
+void UsingUnion();
+void NowUsingEnum();
+void RenameTypes();
+int addNumber(int a, int b);
+float circleArea(float radius);
+void showValue(int n);
+void showReference(int &n);
